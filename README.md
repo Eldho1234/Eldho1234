@@ -32,7 +32,8 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eldho1234&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=Eldho1234&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Eldho1234&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldho1234&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
