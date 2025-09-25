@@ -31,23 +31,23 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldhoroy&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldhoroy&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eldho1234&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eldho1234&theme=radical" alt="streak" />
 </p>
 
 ---
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eldhoroy&theme=dracula&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eldho1234&theme=dracula&margin-w=10" alt="trophies" />
 </p>
 
 ---
 
 ### 🌐 Connect with me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/eldhoroy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eldhoroy.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
